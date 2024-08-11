@@ -1,0 +1,43 @@
+img {
+    width:30%;
+}
+.clearfix{
+    content:"";
+    clear:both;
+}
+header{
+    border-bottom:1px solid grey;
+}
+.logo_wrapper{
+    width:20%;
+    float:left;
+}
+.logo_wrapper img{
+    width:120px;
+}
+.menu_wrapper{
+    width:79%;
+    float:right;
+    text-align:right;
+}
+
+.menu_wrapper ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.menu_wrapper ul li{
+display:inline-block;
+padding-right: 20px;
+font-size: 24px;
+}
+.menu_wrapper ul li a{
+    display:inline-block;
+padding-right: 20px;
+font-size: 24px;
+}
+ div{
+    height: 300px;
+    width: 300px;
+    
+}

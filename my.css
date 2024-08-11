@@ -1,0 +1,33 @@
+#navbar{
+    background-color: #0f0;
+    color: #fff;
+    border: 1px solid #f00;
+    float: top;
+    text-decoration: none;
+    width: 100%;
+
+}
+header{
+    content: "";
+    clear: both;
+    text-align: left;
+}
+#navbar a{
+    margin-left: 50px;
+    text-decoration: none;
+    text-align: left;
+}
+div{
+    height:30%;
+    width: 25%; 
+    border:1px solid #333 ;
+    text-align: justify;
+}
+.textWrapper{
+    width: 30%;
+    padding-left: 15px;
+    font-size: 20px;
+    margin: 50px 50px;
+    float: right;
+    display: inline-block;
+}
